@@ -1,0 +1,21 @@
+{
+  "name": "neutrino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "neutrino start",
+    "build": "neutrino build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@neutrinojs/node": "^8.2.1",
+    "neutrino": "^8.2.1"
+  },
+  "dependencies": {
+    "@neutrinojs/minify": "^8.2.1",
+    "lodash": "^4.17.5",
+    "ramda": "^0.25.0"
+  }
+}
